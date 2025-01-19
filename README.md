@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFkMXp2MHpsenB4bnE0MWpoeGtwanVhOG5qYWFxMm5tY3EyYTdzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YuNqOX0sjqpwNG/giphy.gif" width="40px" align="left">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
 </h1>
+
 
 <br/>
 <br/>

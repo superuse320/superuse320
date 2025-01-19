@@ -1,0 +1,30 @@
+name: Snake Game from GitHub Contributions
+
+on:
+  push:
+    branches:
+      - main  # Este flujo de trabajo se ejecutará cada vez que se haga un push a la rama 'main'.
+  schedule:
+    - cron: "0 0 * * *"  # Esto genera el gráfico automáticamente cada día a medianoche (hora UTC).
+  workflow_dispatch:  # Esto permite ejecutar el flujo de trabajo manualmente desde GitHub.
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Game
+        uses: Platane/snk@v3
+        with:
+          # Nombre de usuario de GitHub para leer el gráfico de contribuciones (obligatorio).
+          github_user_name: superuse320
+
+          # Lista de archivos a generar.
+          # Cada archivo puede ser personalizado con parámetros.
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9

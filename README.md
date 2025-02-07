@@ -13,7 +13,7 @@
 - 🔭 Actualmente trabajo como **Desarrollador de Software** en la **Universidad Adventista de Bolivia**, especializado en **Desarrollo Web**, con un enfoque principal en **Backend**.
 - 🌱 𝙸𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Programación GoLang.**
 - 👯 Estoy buscando colaborar en **C#, Laravel, Desarrollo Web, Backend o proyectos de Software.**
-- 💬 Pregúntame cualquier cosa [aquí]([https://github.com/GovindSingh9447/GovindSingh9447/issues/2](https://github.com/SUPeruse320/)! Estoy feliz de ayudar.
+- 💬 Pregúntame cualquier cosa  Estoy feliz de ayudar.
 - 😄 Pronombres: **Él/Él/Su.**
 - ⚡ Dato curioso: **Si puedes imaginarlo, puedes programarlo.**
 
